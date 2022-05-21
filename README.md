@@ -1,4 +1,4 @@
 - Hi, I’m Murillo Richardt
 - I’m interested in backend development, today a .net developer but looking into NodeJS.
-- Passionate about tecnology, with 6 years of database development and in the last 3 years as a fullstack.
+- Passionate about tecnology, with 6 years of database development and more than 3 years as a fullstack.
 - I’m currently learning NodeJs, using recently NestJS framework
